@@ -16,11 +16,16 @@ In this lab, you will practice various complex layouts to build up the crucial s
 
 For each of the following challenges, you may change any of the row or column divs you see in index.html. Note that white space between rows indicates that there are two separate row divs, and no white space (an entirely yelllow background) indicates that items are in the same row.
 
-2. ![Challenge1](challenge1.png)
-3. ![Challenge2](challenge2.png)
-4. ![Challenge3](challenge3.png)
-5. ![Challenge4](challenge4.png)
-6. ![Challenge5](challenge5.png)
+### Challenge 1
+![Challenge1](challenge1.png)
+### Challenge 2
+![Challenge2](challenge2.png)
+### Challenge 3
+![Challenge3](challenge3.png)
+### Challenge 4
+![Challenge4](challenge4.png)
+### Challenge 5
+![Challenge5](challenge5.png)
 
 ### Stretch
 1. Adding as many rows, columns, and icons as you'd like, create your own challenge and swap with a friend!
