@@ -1,4 +1,4 @@
-# NY State Education Data - React Props
+# Materialize Nested Grid & Icons Practice
 
 ![Initial Icons](icons_start.png)
 
