@@ -17,7 +17,6 @@ In this lab, you will practice various complex layouts to build up the crucial s
 For each of the following challenges, you may change any of the row or column divs you see in index.html. Note that white space between rows indicates that there are two separate row divs, and no white space (an entirely yelllow background) indicates that items are in the same row.
 
 2. ![Challenge1](challenge1.png)
-<br>
 3. ![Challenge2](challenge2.png)
 <br>
 4. ![Challenge3](challenge3.png)
