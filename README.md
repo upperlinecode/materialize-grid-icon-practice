@@ -13,16 +13,18 @@ In this lab, you will practice various complex layouts to build up the crucial s
 
 ## The Lab
 1. Head to <a href="https://materializecss.com/icons.html">Materialize Icons</a> and substitute the four icons in index.html with four of your choosing. Do not change any of the divs, just the `<i>` tags.
-2. Using Materialize's Grid, arrange the icons as follows:
-![Challenge1](challenge1.png)
-3. Using Materialize's Grid, arrange the icons as follows:
-![Challenge2](challenge2.png)
-4. Using Materialize's Grid, arrange the icons as follows:
-![Challenge3](challenge3.png)
-5. Using Materialize's Grid, arrange the icons as follows:
-![Challenge4](challenge4.png)
-6. Using Materialize's Grid, arrange the icons as follows:
-![Challenge5](challenge5.png)
+
+For each of the following challenges, you may change any of the row or column divs you see in index.html. Note that white space between rows indicates that there are two separate row divs, and no white space (an entirely yelllow background) indicates that items are in the same row.
+
+2. ![Challenge1](challenge1.png)
+<br>
+3. ![Challenge2](challenge2.png)
+<br>
+4. ![Challenge3](challenge3.png)
+<br>
+5. ![Challenge4](challenge4.png)
+<br>
+6. ![Challenge5](challenge5.png)
 
 ### Stretch
-1. Adding as many rows, columns, and icons as you'd like, create your own challenge and swap with a friend! 
+1. Adding as many rows, columns, and icons as you'd like, create your own challenge and swap with a friend!
