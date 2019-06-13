@@ -18,11 +18,8 @@ For each of the following challenges, you may change any of the row or column di
 
 2. ![Challenge1](challenge1.png)
 3. ![Challenge2](challenge2.png)
-<br>
 4. ![Challenge3](challenge3.png)
-<br>
 5. ![Challenge4](challenge4.png)
-<br>
 6. ![Challenge5](challenge5.png)
 
 ### Stretch
