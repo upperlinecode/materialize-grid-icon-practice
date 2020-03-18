@@ -1,6 +1,6 @@
 # Materialize Nested Grid & Icons Practice
 
-![Initial Icons](icons_start.png)
+![Initial Icons](https://raw.githubusercontent.com/upperlinecode/materialize-grid-icon-practice/master/icons_start.png)
 
 ## The Goal
 In this lab, you will practice various complex layouts to build up the crucial skill of nesting rows and columns. You'll also gain comfort using Materialize Icons, which provide important visual cues to users.
@@ -17,15 +17,15 @@ In this lab, you will practice various complex layouts to build up the crucial s
 For each of the following challenges, you may change any of the row or column divs you see in index.html. Note that white space between rows indicates that there are two separate row divs, and no white space (an entirely yelllow background) indicates that items are in the same row.
 
 ### Challenge 1
-![Challenge1](challenge1.png)
+![Challenge1](https://raw.githubusercontent.com/upperlinecode/materialize-grid-icon-practice/master/challenge1.png)
 ### Challenge 2
-![Challenge2](challenge2.png)
+https://raw.githubusercontent.com/upperlinecode/materialize-grid-icon-practice/master/challenge2.png)
 ### Challenge 3
-![Challenge3](challenge3.png)
+![Challenge3](https://raw.githubusercontent.com/upperlinecode/materialize-grid-icon-practice/master/challenge3.png)
 ### Challenge 4
-![Challenge4](challenge4.png)
+![Challenge4](https://raw.githubusercontent.com/upperlinecode/materialize-grid-icon-practice/master/challenge4.png)
 ### Challenge 5
-![Challenge5](challenge5.png)
+![Challenge5](https://raw.githubusercontent.com/upperlinecode/materialize-grid-icon-practice/master/challenge5.png)
 
 ### Stretch
 1. Adding as many rows, columns, and icons as you'd like, create your own challenge and swap with a friend!
